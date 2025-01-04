@@ -1,4 +1,4 @@
-# Hello, I'm Ivan Wong!
+# Hi, I'm Ivan!
 
 # Welcome to my Git page!
 
